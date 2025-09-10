@@ -4,9 +4,8 @@ The Insurance Tester project is totally based on the integration of Machine Lear
 It combines the power of a trained RandomForestClassifier model with a FastAPI backend to provide real-time predictions for insurance-related data.
 
 Machine Learning Layer
-
-⦁ A RandomForestClassifier is trained on insurance datasets to predict outcomes.
-⦁ The trained model is serialized using Pickle for deployment.
+- A RandomForestClassifier is trained on insurance datasets to predict outcomes.
+- The trained model is serialized using Pickle for deployment.
 
 FastAPI Layer
 
